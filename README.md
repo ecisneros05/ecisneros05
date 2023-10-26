@@ -10,7 +10,7 @@ I am an enthusiastic and motivated individual with a year-long journey into the 
 * ✉️  You can contact me at [ericcisneros05@gmail.com](mailto:ericcisneros05@gmail.com)
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on Web 3 projects
-* ⚡  I joined a club.... but i can't tell anybody about it.
+* ⚡  I joined a club.... but the first rule is I can't tell anybody about it.
 
 ### Skills
 
